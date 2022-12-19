@@ -1,4 +1,4 @@
-# tetris_kk3
+# tetris
 
 A new Flutter project.
 
